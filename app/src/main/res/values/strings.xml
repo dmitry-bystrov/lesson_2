@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson2</string>
+    <string name="zero">0</string>
+    <string name="interval_counter">Interval counter:</string>
+    <string name="button_listener">Button listener:</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+</resources>
